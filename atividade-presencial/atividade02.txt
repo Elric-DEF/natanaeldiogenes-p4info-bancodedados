@@ -1,0 +1,4 @@
+1) Sistema Isolado
+Sistema isolado é quando cada uma das funções é informatizada de forma separada, sem considerar a informatização das demais funções
+2) Sistema Integrado
+No sistema integrado cada informação é armazenada uma única vez, sendo acessado pelos vários sistemas que dela necessitam

@@ -1,1 +1,8 @@
-teste
+1) Dado
+Dado é um registro de uma informação. Este dado pode ser registrado tanto de forma física quanto de forma digital.
+2) Informação
+Informação acrescenta algo no conhecimento da realidade a ser analisada.
+3) Arquivo Convencional
+São projetados para facilitar a vida do usuário e ajudá-lo a navegar a enorme quantidade de dados armazenados em seus computadores , telefones celulares, drive USB e outros dispositivos
+4) Banco de Dados
+Um banco de dados é uma coleção organizada de dados estruturados, normalmente armazenadas eletronicamente em um sistema de computador.

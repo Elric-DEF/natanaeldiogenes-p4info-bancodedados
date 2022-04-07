@@ -1,0 +1,6 @@
+1) Modelagem Conceitual
+É um esquema de banco de dados que não se importa com a beleza, porém ela possibilita a visualização das atividades e procedimentos que poderão ser exercidos sobre as estruturas de dados.
+2) Projeto Lógico
+O projeto lógico organiza as tabelas de uma forma mais detalhada, informando seus atributos, primary keys e suas relações.
+3) Projeto Físico
+O projeto físico é semelhante ao lógico, porém é o mais parecido com o resultado final, ele detalha como serão os atributos, por exemplo, o seu tipo e detalha de que forma as tabelas se relacionam.

@@ -1,0 +1,12 @@
+Defina os seguintes conceitos centrais da abordagem ER:
+a) Entidade;
+Entidade é o objeto que existe no mundo real com uma identificação distinta e com um significado próprio.
+b) Relacionamento;
+É o acontecimento que liga dois objetos, duas "coisas" que existem no mundo real
+c) Atributo;
+Atributos são dados que caracterizam um objeto
+d) Dominio de um Atributo;
+e) Generalização/especialização;
+Existe um encapsulamento de informação sob a forma desta entidade genérica, a qual possui subconjuntos de dados que formam classes diferenciadas, mas que possuem características que nos permitem colocá-las sob a visão de uma única entidade
+f) Entidade Associativa;
+g) Cardinalidade de um Atributo.
